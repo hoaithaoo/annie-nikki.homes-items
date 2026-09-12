@@ -1,0 +1,998 @@
+[
+  {
+    "type": "item",
+    "id": "31584",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/6/6d/Moonlit_Clash_-_Hidden_icon.png/revision/latest",
+    "new_filename": "items/31584.png"
+  },
+  {
+    "type": "item",
+    "id": "84405",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/6/6b/Dance_of_Victory_icon.png/revision/latest",
+    "new_filename": "items/84405.png"
+  },
+  {
+    "type": "item",
+    "id": "61685",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/9/9b/Summer_Breeze_%28Hosiery%29_icon.png/revision/latest",
+    "new_filename": "items/61685.png"
+  },
+  {
+    "type": "item",
+    "id": "90716",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/c/c5/Undying_Hope_%28Makeup%29_icon.png/revision/latest?cb=20240313072321",
+    "new_filename": "items/90716.png"
+  },
+  {
+    "type": "item",
+    "id": "183672",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/b/b3/Untold_Lie_-_Blue_icon.png/revision/latest",
+    "new_filename": "items/183672.png"
+  },
+  {
+    "type": "item",
+    "id": "12036",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/c/c1/Barley_Aroma_icon.png/revision/latest",
+    "new_filename": "items/12036.png"
+  },
+  {
+    "type": "item",
+    "id": "81536",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/7/7a/Falling_Leaves_%28Hair_Ornament%29.png",
+    "new_filename": "items/81536.png"
+  },
+  {
+    "type": "item",
+    "id": "83231",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/1/10/Fragrant_Pistill.png",
+    "new_filename": "items/83231.png"
+  },
+  {
+    "type": "item",
+    "id": "11396",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/7/71/Demon_Cleanser.png",
+    "new_filename": "items/11396.png"
+  },
+  {
+    "type": "item",
+    "id": "40913",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/c/cc/Candy_Adventure_%28Top%29_icon.png/revision/latest",
+    "new_filename": "items/40913.png"
+  },
+  {
+    "type": "item",
+    "id": "61817",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/0/0f/Melody_of_Heart_%28Leglet%29_icon.png/revision/latest",
+    "new_filename": "items/61817.png"
+  },
+  {
+    "type": "item",
+    "id": "80824",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/0/04/Jasmine_Hairpin.png",
+    "new_filename": "items/80824.png"
+  },
+  {
+    "type": "item",
+    "id": "73439",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/2/2f/Winding_Journey_icon.png/revision/latest",
+    "new_filename": "items/73439.png"
+  },
+  {
+    "type": "item",
+    "id": "13319",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/1/1b/Millennia_Lights.png",
+    "new_filename": "items/13319.png"
+  },
+  {
+    "type": "item",
+    "id": "13084",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/7/77/Meeting_Cuteness.png",
+    "new_filename": "items/13084.png"
+  },
+  {
+    "type": "item",
+    "id": "31918",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/6/67/Warm_Waiting_-_Cheese_icon.png/revision/latest",
+    "new_filename": "items/31918.png"
+  },
+  {
+    "type": "item",
+    "id": "82247",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/3/32/Song_of_Nightindale.png",
+    "new_filename": "items/82247.png"
+  },
+  {
+    "type": "item",
+    "id": "187924",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/5/5f/Heart%27s_Resonance_icon.png/revision/latest",
+    "new_filename": "items/187924.png"
+  },
+  {
+    "type": "item",
+    "id": "72759",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/1/14/Fleeting_Sounds_icon.png/revision/latest",
+    "new_filename": "items/72759.png"
+  },
+  {
+    "type": "item",
+    "id": "62075",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/3/3e/Blissful_Getaway_icon.png/revision/latest",
+    "new_filename": "items/62075.png"
+  },
+  {
+    "type": "item",
+    "id": "183377",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/8/87/Gentle_Fragrance_%28Handheld%29_icon.png/revision/latest",
+    "new_filename": "items/183377.png"
+  },
+  {
+    "type": "item",
+    "id": "90973",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/6/68/Floral_Gaze_icon.png/revision/latest",
+    "new_filename": "items/90973.png"
+  },
+  {
+    "type": "item",
+    "id": "23131",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/c/cf/Night_Mist_%28Dress%29_icon.png",
+    "new_filename": "items/23131.png"
+  },
+  {
+    "type": "item",
+    "id": "91070",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/8/8e/Gaze_of_Stars_icon.png/revision/latest",
+    "new_filename": "items/91070.png"
+  },
+  {
+    "type": "item",
+    "id": "84519",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/0/00/Pure_White_Heart_%28Hair_Ornament%29.png",
+    "new_filename": "items/84519.png"
+  },
+  {
+    "type": "item",
+    "id": "182585",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/5/56/Misty_River_%28Coat%29_icon.png/revision/latest",
+    "new_filename": "items/182585.png"
+  },
+  {
+    "type": "item",
+    "id": "14421",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/5/53/Clouds_of_Milky_Way_icon.png/revision/latest",
+    "new_filename": "items/14421.png"
+  },
+  {
+    "type": "item",
+    "id": "182486",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/4/49/Burning_Rhythm_%28Gloves%29_icon.png/revision/latest",
+    "new_filename": "items/182486.png"
+  },
+  {
+    "type": "item",
+    "id": "85399",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/8/8b/Polar_Starlight_%28Hair_Ornament%29.png",
+    "new_filename": "items/85399.png"
+  },
+  {
+    "type": "item",
+    "id": "86506",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/4/43/Cutting_Edge_Tech_icon.png/revision/latest",
+    "new_filename": "items/86506.png"
+  },
+  {
+    "type": "suit",
+    "id": "4139",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/a/a7/Frostwind_Oath.jpg/revision/latest",
+    "new_filename": "suits/4139.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3797",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/7/74/Ambrosial_Magic.jpg/revision/latest",
+    "new_filename": "suits/3797.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4296",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/4/4b/Bloodmoon_Finale.jpg/revision/latest",
+    "new_filename": "suits/4296.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3981",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/e/e3/Star_Explorer.jpg/revision/latest",
+    "new_filename": "suits/3981.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3951",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/e/ee/%E6%9E%95%E6%B0%B4%E9%A3%8E%E8%8D%B7.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3951.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4292",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/7/72/Magnolia_Grace.jpg/revision/latest",
+    "new_filename": "suits/4292.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4229",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/0/04/Night_of_Blossoms.jpg/revision/latest",
+    "new_filename": "suits/4229.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4117",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/d/d8/Nocturnal_Trace.jpg",
+    "new_filename": "suits/4117.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4193",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/3/3d/Sugary_Reverie.jpg/revision/latest",
+    "new_filename": "suits/4193.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4089",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/ba/%E7%BB%98%E5%BD%A9%E5%88%9B%E6%83%B3.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4089.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4096",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/1/14/%E6%82%A0%E7%84%B6%E6%B8%85%E9%9F%B5.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4096.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4097",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/b9/%E8%99%9A%E5%83%8F%E4%B8%B4%E7%95%8C.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4097.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4103",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/d/dc/%E6%82%A0%E7%AB%B9%E6%97%A5%E5%BF%97.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4103.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4121",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/4/4e/%E9%9D%92%E9%9B%AA%E6%BC%B1%E7%93%B7.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4121.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4120",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/2/28/%E9%A6%A5%E9%94%A6%E7%90%BC%E8%8B%B1.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4120.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4122",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/e/e2/%E5%A2%A8%E5%9B%AD%E5%A4%A9%E5%B7%A5.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4122.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4125",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/9/93/%E7%AB%A5%E8%AF%9D%E5%8C%A0%E5%BF%83.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4125.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4126",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/a/a3/%E6%B5%81%E5%85%89%E6%98%9F%E8%AA%93.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4126.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4127",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/1/11/%E9%9A%BD%E9%9B%85%E6%97%B6%E5%85%89.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4127.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4128",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/d/d4/%E6%9B%A6%E5%85%89%E9%A2%82%E6%AD%8C.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4128.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4129",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/7/75/%E7%A0%82%E6%B5%B7%E5%A5%87%E8%B0%AD.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4129.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4130",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/bf/%E6%9C%88%E7%85%A7%E4%B9%8B%E9%87%8E.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4130.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4131",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/8/89/%E9%9B%85%E6%84%8F%E6%B2%81%E9%A5%AE.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4131.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4143",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/2/2e/%E6%B1%A0%E4%B8%AD%E8%8E%B2.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4143.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4145",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/7/7e/%E7%92%83%E5%BD%B1%E6%B5%AE%E5%85%89.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4145.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4146",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/c/c7/%E7%90%89%E8%BE%89%E5%B9%BB%E5%8D%8E.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4146.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3943",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/c/c4/%E5%8D%A0%E9%97%AE%E4%B9%8B%E7%89%8C.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3943.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4031",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/d/dd/%E6%9A%AE%E7%BE%BD%E5%87%9D%E5%85%89.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4031.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4217",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/5/57/%E6%B8%85%E8%8A%B3%E6%A2%A6%E8%95%B4.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4217.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3946",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/0/02/%E6%9E%81%E8%B7%83%E8%BF%85%E5%BD%B1.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3946.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3802",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/f/f8/%E6%A6%9B%E5%B7%A7%E8%90%8C%E7%86%8A.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3802.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3821",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/d/db/%E7%82%AB%E5%BD%A9%E6%97%B6%E5%88%BB.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3821.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3921",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/4/4f/%E8%B0%9C%E6%A2%A6%E8%8C%B6%E4%BC%9A.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3921.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3877",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/b6/%E5%A5%87%E8%B6%A3%E5%8C%A0%E5%BF%83.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3877.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4027",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/c/c1/%E7%90%86%E6%83%B3%E6%BC%AB%E9%80%94.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4027.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "445",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/3/37/%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98.jpg/revision/latest?cb=20251112012827&path-prefix=zh",
+    "new_filename": "suits/445.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3848",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/6/62/%E6%97%A0%E5%8F%8C%E5%89%91%E5%AE%A2.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3848.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4035",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/6/6c/%E5%A5%87%E8%BF%B9%E4%B9%8B%E6%97%85.jpg/revision/latest?cb=20250617010502&path-prefix=zh",
+    "new_filename": "suits/4035.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3831",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/f/f7/%E6%A1%83%E5%AE%9E%E9%A6%A8%E9%A6%99.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3831.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4034",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/7/73/%E7%96%86%E5%A1%9E%E6%88%A2%E5%AE%9A.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4034.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3910",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/6/6f/%E7%AB%B9%E5%BD%B1%E8%90%8D%E8%B8%AA.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3910.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3944",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/7/77/%E9%9D%A1%E9%A6%99%E4%BD%99%E7%83%AC.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3944.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3849",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/a/a3/%E5%A8%B4%E9%9B%85%E6%B7%91%E5%A5%B3.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3849.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3947",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/4/47/%E6%98%9F%E6%9C%88%E7%94%9C%E6%A2%A6.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3947.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3842",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/5/5d/%E6%99%B4%E7%A9%BA%E7%BB%98%E6%A2%A6.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3842.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3960",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/2/23/%E8%99%8E%E8%B7%83%E9%9C%9C%E8%A1%8C.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3960.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "765",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/1/15/%E9%9D%92%E6%98%A5%E5%96%9D%E5%BD%A9.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/765.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3887",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/0/08/%E5%AF%B0%E7%95%8C%E7%BA%AA%E9%99%90.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3887.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4036",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/bb/%E7%A9%BA%E5%B1%B1%E9%97%BB%E9%B9%A4.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4036.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "612",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/2/23/%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/612.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3170",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/d/d0/%E7%BB%8F%E5%85%B8%E6%A0%BC%E8%B0%83.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3170.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4005",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/0/01/%E8%8C%9C%E7%BA%A2%E6%96%B0%E7%AF%87.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4005.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "347",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/2/2e/%E7%AB%A5%E8%B6%A3%E7%BE%8E%E6%A2%A6.jpg/revision/latest?cb=20251112012838&path-prefix=zh",
+    "new_filename": "suits/347.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4006",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/e/eb/%E6%99%B4%E5%BD%A9%E9%A3%8E%E9%82%80.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4006.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3876",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/d/d0/%E6%B2%89%E9%9D%99%E8%AF%97%E7%AF%87.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3876.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4029",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/3/39/%E7%8E%AB%E7%91%B0%E9%A6%99%E6%A2%A6.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4029.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3879",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/8/84/%E7%9B%88%E9%A6%99%E5%B9%BD%E6%A2%A6.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3879.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "827",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/b2/%E7%A5%9E%E7%A7%98%E7%A5%AD%E5%8F%B8.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/827.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3871",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/d/db/%E8%83%9C%E5%88%A9%E5%87%AF%E6%AD%8C.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3871.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3850",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/c/ce/%E8%B5%A4%E7%84%B0%E5%BF%83.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3850.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4112",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/4/4b/Verdant_Remnants.jpg",
+    "new_filename": "suits/4112.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3795",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/2/2f/%E6%97%A9%E9%97%B4%E5%BF%AB%E8%AE%AF.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3795.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3870",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/3/37/%E9%87%91%E6%B2%99%E4%B9%90%E8%88%9E.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3870.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1710",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/7/77/%E9%AD%94%E6%B3%95%E6%9C%AA%E6%9D%A52019.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/1710.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3985",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/8/88/%E9%95%BF%E5%AE%B5%E6%A2%A6%E5%9C%86.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3985.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4171",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/1/13/%E6%98%9F%E7%A0%82%E5%BA%8F%E6%97%B6.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4171.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4169",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/3/36/%E8%98%A9%E6%9E%97%E6%8E%A0%E5%BD%B1.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4169.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1109",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/a/a8/%E6%B0%B4%E7%8E%89%E9%95%BF%E6%98%8E.jpg/revision/latest?cb=20230711141150&path-prefix=zh",
+    "new_filename": "suits/1109.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4177",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/b6/%E8%B5%B4%E6%A2%A6%E5%B9%BD%E7%BF%BC.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4177.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "2220",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/8/8f/Hymn_of_the_Dawn.jpg/revision/latest",
+    "new_filename": "suits/2220.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4191",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/9/92/%E7%92%80%E7%92%A8%E5%BF%83%E8%BE%89.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4191.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4180",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/c/c3/%E7%A7%8B%E5%A4%95%E9%A3%8E%E6%9C%88.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4180.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4175",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/4/45/%E8%B5%A4%E9%9C%9E%E4%B8%B9%E7%8F%A0.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4175.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4172",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/bd/%E6%A0%96%E9%9B%AA%E4%B9%8B%E5%9F%8E.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4172.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4208",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/8/83/%E4%B9%98%E9%A3%8E%E4%BF%A1%E4%BD%BF.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4208.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4209",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/b0/%E6%A0%BC%E7%89%A9%E5%BE%AA%E7%90%86.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4209.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4210",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/0/09/%E8%8A%B1%E5%BD%B1%E6%BC%B1%E6%9C%88.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4210.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4212",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/f/fa/%E5%89%8D%E6%B2%BF%E9%A3%8E%E5%B0%9A.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4212.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4213",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/b8/%E7%94%9C%E5%BF%83%E6%A2%A6%E6%97%85.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4213.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4215",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/2/28/%E6%B5%AE%E9%A6%99%E5%A2%A8%E9%9F%B5.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4215.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4214",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/1/17/%E7%BC%8E%E5%85%89%E5%8D%8E%E5%A4%9C.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4214.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4216",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/5/51/%E7%BB%92%E4%BA%AB%E6%97%B6%E5%85%89.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4216.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4290",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/a/a6/Scarlet_Oath.jpg/revision/latest",
+    "new_filename": "suits/4290.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4218",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/a/a0/%E5%87%AF%E6%97%8B%E9%A2%82%E6%AD%8C.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4218.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4221",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/7/71/%E5%B9%BD%E6%B5%B7%E6%B2%89%E9%B8%A3.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4221.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4220",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/a/a8/%E6%8B%BE%E8%8A%B3%E7%BC%80%E6%A2%A6.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4220.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4190",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/8/83/Blossom_Whispers.jpg/revision/latest",
+    "new_filename": "suits/4190.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4038",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/f/f4/%E4%B8%89%E7%94%9F%E7%BB%A3%E7%BE%BD.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4038.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4064",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/f/f0/%E5%B8%9D%E5%A5%B3%E8%8A%B1_%E5%87%A4%E4%BF%A6%E4%BE%A3.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4064.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4079",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/6/62/%E7%BB%AE%E8%93%9D%E5%A4%9C%E6%9B%B2.jpg/revision/latest?cb=20250617010505&path-prefix=zh",
+    "new_filename": "suits/4079.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4065",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/f/f0/%E5%B8%9D%E5%A5%B3%E8%8A%B1_%E5%87%A4%E4%BF%A6%E4%BE%A3.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4065.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1110",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/a/af/%E9%9D%92%E7%91%B6%E7%A2%A7%E5%BD%B1.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/1110.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1148",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/9/99/%E4%B8%BD%E5%A7%AC.jpg/revision/latest/scale-to-width-down/268?cb=20260323231641&path-prefix=zh",
+    "new_filename": "suits/1148.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1418",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/d/d6/%E4%BC%81%E9%B9%85%E5%A8%98%E5%A5%87%E9%81%87%E8%AE%B0.png/revision/latest?cb=20251216021204&path-prefix=zh",
+    "new_filename": "suits/1418.png"
+  },
+  {
+    "type": "suit",
+    "id": "1366",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/5/57/%E4%BB%B2%E6%98%A5%E4%B9%8B%E6%A2%A6.png/revision/latest?cb=20260323231720&path-prefix=zh",
+    "new_filename": "suits/1366.png"
+  },
+  {
+    "type": "suit",
+    "id": "1244",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/7/74/JP_Amaterasu_and_Tsukuyomi_%28Suit%29.jpg/revision/latest?cb=20241113201636",
+    "new_filename": "suits/1244.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1243",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/7/74/JP_Amaterasu_and_Tsukuyomi_%28Suit%29.jpg/revision/latest?cb=20241113201636",
+    "new_filename": "suits/1243.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "2284",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/8/87/%E4%BA%91%E4%B9%8B%E6%81%8B.png/revision/latest?path-prefix=zh",
+    "new_filename": "suits/2284.png"
+  },
+  {
+    "type": "suit",
+    "id": "312",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/c/cd/%E8%8A%B1%E5%AB%81%E7%AB%A5%E8%AF%9D.png/revision/latest?path-prefix=zh",
+    "new_filename": "suits/312.png"
+  },
+  {
+    "type": "suit",
+    "id": "4018",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/5/5b/%E6%85%A2%E4%BA%AB%E6%97%B6%E5%85%89.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4018.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3977",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/8/8d/%E7%A6%8F%E7%81%AF%E5%AE%9D%E5%8D%8E.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3977.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3922",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/8/80/%E5%87%9B%E9%A3%8E%E7%BE%81%E6%97%85.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3922.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3878",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/e/e0/%E5%A5%87%E6%84%BF%E4%B9%90%E5%9B%AD.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3878.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4025",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/c/c2/%E5%AF%86%E6%9E%97%E4%BC%A0%E5%A5%87.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4025.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4022",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/3/38/%E6%98%A5%E8%B9%B4%E8%8A%B3%E8%8C%B5.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4022.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3793",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/c/c3/%E6%B5%93%E6%83%85%E8%9C%9C%E5%B7%A7.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3793.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4028",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/c/ce/%E7%90%89%E7%92%83%E5%8D%8E%E8%95%B4.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4028.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3942",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/4/4f/%E7%BB%92%E5%85%94%E5%BF%83%E8%AF%AD.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3942.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4037",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/f/ff/%E8%A7%A3%E5%BF%A7%E6%B1%A4%E9%9D%A2.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4037.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3955",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/7/78/%E9%81%97%E4%B8%96%E6%B5%AE%E5%B0%98.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3955.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3158",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/9/96/%E9%9D%92%E7%93%B7%E4%B8%80%E6%A2%A6.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3158.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "344",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/1/1f/%E6%9A%AE%E9%9C%AD%E8%8B%8D%E7%90%85.png/revision/latest?cb=20251216021729&path-prefix=zh",
+    "new_filename": "suits/344.png"
+  },
+  {
+    "type": "suit",
+    "id": "moon-gazingg",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/6/67/Moon-Gazing.jpg/revision/latest/scale-to-width-down/268?cb=20240110012119",
+    "new_filename": "suits/moon-gazingg.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4108",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/b/ba/Scribe_of_Souls.jpg",
+    "new_filename": "suits/4108.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "2286",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/9/94/%E5%A4%9C%E4%B9%8B%E9%AD%85.png/revision/latest?path-prefix=zh",
+    "new_filename": "suits/2286.png"
+  },
+  {
+    "type": "suit",
+    "id": "343",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/a/a5/%E6%9A%96%E5%BF%83%E4%BC%81%E9%B9%85.png/revision/latest?cb=20251216021722&path-prefix=zh",
+    "new_filename": "suits/343.png"
+  },
+  {
+    "type": "suit",
+    "id": "4136",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/8/8f/Metallic_Crisis.jpg",
+    "new_filename": "suits/4136.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3801",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/2/2a/%E5%AD%A4%E6%98%9F%E9%A2%86%E8%88%AA.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3801.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4166",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/3/31/%E5%BF%83%E6%84%BF%E9%80%9F%E9%80%92.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/4166.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "931",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/b/bd/%E9%95%BF%E8%A1%97%E5%90%89%E7%A5%A5%E5%A8%98.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/931.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1108",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/7/77/%E9%9B%85%E9%9F%B3%E8%87%AA%E9%B8%A3.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/1108.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "suit-1786895877869",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/2/20/%E8%B4%BA%E6%96%B0%E7%A6%A7.jpg/revision/latest?cb=20260213020939&path-prefix=zh",
+    "new_filename": "suits/suit-1786895877869.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "sweet-love-1",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/2/29/Sweet_Love.jpg/revision/latest?cb=20180214145907",
+    "new_filename": "suits/sweet-love-1.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "2322",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/0/07/%E7%81%AB%E7%82%AE%E5%85%B0.jpg/revision/latest/scale-to-width-down/268?cb=20250708015731&path-prefix=zh",
+    "new_filename": "suits/2322.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "898",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/c/c1/Fallen_Flowers.jpg/revision/latest?cb=20190505191355",
+    "new_filename": "suits/898.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1744",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/3/35/%E7%92%83%E9%9D%92%E7%8E%89%E8%95%8A.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/1744.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4115",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/1/1d/Guardian_Oath.jpg",
+    "new_filename": "suits/4115.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "3792",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/7/7b/%E6%9E%81%E7%A9%BA%E4%B9%8B%E9%A3%8E.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/3792.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4109",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/8/85/Divine_Eternity.jpg",
+    "new_filename": "suits/4109.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "4106",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/b/b8/Ribbit_Singer.jpg",
+    "new_filename": "suits/4106.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "2304",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/f/f2/%E6%B5%A6%E9%9D%92%E5%90%9B%E9%BB%9B.jpg/revision/latest?cb=20250506031136&path-prefix=zh",
+    "new_filename": "suits/2304.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1897",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/8/8c/Lac_Vu.jpg/revision/latest?cb=20230609060005",
+    "new_filename": "suits/1897.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1591",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/0/04/%E7%A7%8B%E6%9E%9C%E7%BC%A4%E7%BA%B7.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/1591.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "1974",
+    "old_url": "https://static.wikia.nocookie.net/miraclenikki/images/c/c0/%E8%8E%B2%E6%9F%93%E7%A7%98%E8%89%B2.jpg/revision/latest?path-prefix=zh",
+    "new_filename": "suits/1974.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "dynamic-maiden",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/a/a0/Dynamic_Maiden.jpg",
+    "new_filename": "suits/dynamic-maiden.jpg"
+  },
+  {
+    "type": "suit",
+    "id": "fluffy-lop",
+    "old_url": "https://static.wikia.nocookie.net/lovenikki/images/f/f0/Fluffy_Lop.png",
+    "new_filename": "suits/fluffy-lop.png"
+  }
+]
